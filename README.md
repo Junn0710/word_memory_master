@@ -97,8 +97,8 @@ English | 中文
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/Junn0710/personal_attempt.git
-cd personal_attempt
+git clone https://github.com/Junn0710/word_memory_master.git
+cd word_memory_master
 ```
 
 2. **安装依赖**
